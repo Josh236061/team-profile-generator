@@ -1,6 +1,14 @@
 # team-profile-generator
 Rice Bootcamp Challenge Assignment 10: Team Profile Generator
 
+## Introduction
+Object-Oriented Programming Challenge: Team Profile Generator
+Your challenge is to build a Node.js command-line application that takes in information about employees on a software engineering team and generates an HTML webpage that displays summaries for each person.
+
+Because this Challenge will require the use of the Inquirer package, ensure that you install and use Inquirer version 8.2.4. To do so, use the following command in your project folder: npm i inquirer@8.2.4.
+
+Testing is key to making code maintainable, you’ll also write unit tests for each part of your code and ensure that it passes all of them.
+
 ## User Story
 AS A manager
 I WANT to generate a webpage that displays my team's basic info
