@@ -1,0 +1,46 @@
+header {
+    background-color: rgb(182, 43, 43);
+}
+
+h1 {
+    font-size: 50px;
+    text-align: center;
+    color: white;
+    vertical-align: middle;
+    padding: 100px;
+}
+
+div.card.mb-3 {
+    border-radius: 5px;
+    box-shadow: inset 5px 5px 8px rgba(0,0,0,0.5),
+    10px 10px 20px 5px rgba(0,0,0,0.5);
+}
+
+div.card-body {
+    width: fit-content;
+    block-size: fit-content;
+}
+
+div.card-header {
+    font-size: 22px;
+    font-weight: bold;
+}
+
+div.project-row {
+    display: flex;
+    flex-wrap: wrap;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
+    grid-gap: 40px;
+}
+
+div.portfolio-container {
+    display: flex;
+    padding: 60px 15px 0px 15px;
+    justify-self: start;
+    width: 100%;
+}
+
+ul {
+    color: black;
+}
