@@ -35,10 +35,13 @@ THEN I exit the application, and the HTML is generated
 
 ## Screenshot
 
+![image](https://user-images.githubusercontent.com/71394743/196844649-560acdd5-637f-4660-a1ec-df920c17be00.png)
+
+
 
 ## Links
 
 Github Repo URL: https://github.com/Josh236061/team-profile-generator
 
-Video Walkthrough Link: 
+Video Walkthrough Link: https://drive.google.com/file/d/1NeimgBsr42UPO8UuZ9axBb4Q-_4Z-fHy/view?usp=sharing
 
