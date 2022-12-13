@@ -19,13 +19,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/josh236061/team-profule-generator.git"
+    "url": "git+https://github.com/josh236061/team-profile-generator.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/josh236061/team-profule-generator.git/issues"
+    "url": "https://github.com/josh236061/team-profile-generator.git/issues"
   },
-  "homepage": "https://github.com/josh236061/team-profule-generator.git#readme"
+  "homepage": "https://github.com/josh236061/team-profile-generator.git#readme"
 }
